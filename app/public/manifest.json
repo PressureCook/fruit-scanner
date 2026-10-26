@@ -1,0 +1,22 @@
+
+{
+  "name": "FreshScan AI",
+  "short_name": "FreshScan",
+  "description": "Local Neural Network Fruit Classifier",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2d9a42",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/fresh/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/fresh/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

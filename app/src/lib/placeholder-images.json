@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Background showing fresh organic produce",
+      "imageUrl": "https://picsum.photos/seed/fresh/1200/800",
+      "imageHint": "fresh fruits"
+    },
+    {
+      "id": "app-icon",
+      "description": "App branding icon representing freshness",
+      "imageUrl": "https://picsum.photos/seed/leaf/200/200",
+      "imageHint": "green leaf"
+    }
+  ]
+}
